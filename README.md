@@ -1,2 +1,2 @@
-# supabase-
+# megabase
 Fixing shortcomings of Supabase
