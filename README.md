@@ -1,2 +1,3 @@
 # megabase
-Fixing shortcomings of Supabase
+
+Documenting and fixing shortcomings of Supabase
